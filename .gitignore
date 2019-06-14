@@ -1,0 +1,6 @@
+*.did.tmp
+csv_split
+*.kit
+*.vfs
+.do_built
+.do_built.dir
